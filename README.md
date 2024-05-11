@@ -1,0 +1,2 @@
+# adguardhome-filters
+AdguardHome Filter
