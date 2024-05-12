@@ -70,8 +70,9 @@
 ! Block ads
 ||pl22882342.profitablegatecpm.com^
 ||pl22720501.profitablegatecpm.com^
-||configv2.unityads.unity3d.com^
-||cdn2.inner-active.mobi^
+||unityads.unity3d.com^
+||fundingchoicesmessages.google.com^
+||inner-active.mobi^
 ||googleads.g.doubleclick.net^
 ||deqik.com^
 ||static.amcdn.vn^
