@@ -1,3 +1,4 @@
+! Các trang web cá độ bóng đá
 ||debet.net^
 ||image-eu-na-tsetsafndc.90phut.click^
 ||sbbanner.com^
@@ -9,67 +10,17 @@
 ||bet88.tv^
 ||bet88vn.casino^
 ||bet88vn.vin^
-||roblox.com^
-||gamevui.vn^
-||agame.vn^
-||game24h.vn^
-||crazygames.com^
-||crazygames.vn^
-||choigame.gg^
-||1001game.vn^
-||trochoiviet.com^
-||game247.vn^
-||choigame.biz^
-||choinhanh.vn^
-||sanhbai.com^
-||desura.com^
-||pikachucodien.net^
-||poki.com^
-||gamesgames.com^
-||y8.com^
-||game.cok.uk^
-||game.co.za^
-||zone.msn.com^
-||nettruyencc.com^
-||cuutruyen.vn^
-||blogtruyen.vn^
-||mangatruyen.vn^
-||truyensexnunglong.com^
-||lmvn.com^
-||coithienthai.com^
-||truyenhdx.com^
-||18truyen.com^
-||wap.sh^
-||hinovel.com^
-||misacvien.com^
-||truyenc.com^
-||truyenfull18.com^
-||wattpad.com^
-||truyen.com^
-||pops.vn^
-||s1.vnecdn.net^
-||truyenfull.vn^
-! Rule for gambling
-/.*bet88.+/
-/.*ibet.+/
-/188moingay.+/
-/188bet.+/
-! Rule for comic, manga
-/.*nettruyen.+/
-/.*truyentranh.+/
-/truyenqq.+/
-/doctruyen.+/
-/tamtruyen.+/
-/.+comic.+/
-/manga.+/
-!Rule for xxx
-/truyensex.+/
-/ditnhau.+/
-/vlxx.+/
-
-! Block ads
 ||pl22882342.profitablegatecpm.com^
 ||pl22720501.profitablegatecpm.com^
+||bongdanet.co^
+||one88.cc^
+||11bet.uk^
+||zbet.top^
+||red88.tv^
+||may88.game^
+
+
+! Chung chung
 ||unityads.unity3d.com^
 ||fundingchoicesmessages.google.com^
 ||inner-active.mobi^
@@ -80,45 +31,24 @@
 ||genk.mediacdn.vn^
 ||acscdn.com^
 ||pagead2.googlesyndication.com^
-||bongdanet.co^
-||one88.cc^
-||11bet.uk^
-||zbet.top^
-||red88.tv^
-||may88.game^
+||googlesyndication.com^
 ||zmedia.vn^
 ||pubmatic.com^
-||googlesyndication.com^
 
-! sex
-||xcheckerviet.vip^
-||gaigutv.club^
-||gaigoi.vin^
-||mb66.money^
-||789betan.com^
-||sharelink.me^
-||i.ibb.co^
-||lp.vip79.uk^
-||b52.vin^
-||rphang.online^
-||hit.win^
-||okvip.supply^
-||choidangcap3.cc^
-||videobet.ph^
-||22hello88.com^
-||daiphattpi.com^
-||hl8vn.mobi^
-/keonhacai.+/
-/thienvadia.+/
-/thiendia.+/
-/rphang.+/
+! Các domain .win, .vip, .vin toàn trang vớ vẩn
 /.+\.win/
 /.+\.vip/
 /.+\.vin/
-/tuoi69.+/
+
+! Các pattern cá độ
 /.*Hello88.+/
 /.*Hell.*o88.+/
 /.*88taixiu.+/
 /.*hb88vn.+/
 /.*hl8vn.+/
 /.*helloanhem.+/
+/keonhacai.+/
+/.*bet88.+/
+/.*ibet.+/
+/188moingay.+/
+/188bet.+/
