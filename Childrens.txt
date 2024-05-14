@@ -1,0 +1,5 @@
+! Danh sách các trang web không nên cho trẻ em
+||msn.com^
+||forumvi.com^
+||xamvn.eu^
+||nimo.tv^

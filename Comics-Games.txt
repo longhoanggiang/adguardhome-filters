@@ -44,3 +44,4 @@
 /tamtruyen.+/
 /.+comic.+/
 /manga.+/
+/.*sstruyen.+/
