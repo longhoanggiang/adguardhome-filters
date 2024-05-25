@@ -1,2 +1,10 @@
 hot.90phut9.xyz##body > div.g-imgbot.pc.d-none.d-md-block
-hot.90phut9.xyz##body > div.g-imgtop.pc.container
+hot.90phut9.xyz##body > div.g-imgtop
+hot.90phut9.xyz##body > div.modal > div
+hot.90phut9.xyz##body > div.bg-overlay
+vebo17.net###modalasd
+vebo17.net###app-web > div > div.for-desktop.ft-box
+vebo17.net###app-web > div.app-body > div:first-child
+xoilac25.org###app-web > div.app-body > div:first-child
+banhkhuc4.net###app-web > div.app-body > div:first-child
+banhkhuc4.net###chat_match a > img
